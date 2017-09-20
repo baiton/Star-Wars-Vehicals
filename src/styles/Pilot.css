@@ -1,0 +1,13 @@
+.pilot-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pilot-button{
+  margin-top: 10px;
+}
+
+.pilot-title{
+  margin-top: 10px;
+}
